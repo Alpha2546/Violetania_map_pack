@@ -7,7 +7,7 @@
   "version": "1",
   "build": "89755",
   "date": "2015/12/03",
-  "signature": "Violet Ania"
+  "signature": "Violet Ania",
   "forum": "https://forums.uberent.com/threads/the-lana-series.70524/",
   "icon": "http://i.imgur.com/k5f2FJl.jpg",
   "category": [
@@ -17,14 +17,14 @@
 	  "system",
 	  "planets",
 	  "planet",
-	  "systems"
-	  "violet"
-	  "ania"
-	  "violetania"
-	  "lana"
-	  "series"
-	  "the"
-	  "hearts"
+	  "systems",
+	  "violet",
+	  "ania",
+	  "violetania",
+	  "lana",
+	  "series",
+	  "the",
+	  "hearts",
 	  "stars"
     ],
     "load_planet": [
